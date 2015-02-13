@@ -1,1 +1,1 @@
-Parses bytes from objdump output and ets the shellcode an executable file.
+Parses bytes from objdump output and gets the shellcode an executable file.
